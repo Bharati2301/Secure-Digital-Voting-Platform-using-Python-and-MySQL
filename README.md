@@ -1,4 +1,4 @@
-# Online-Voting-System-using-Python-and-MySQL
+# Secure-Digital-Voting-Platform-using-Python-and-MySQL
 
 ## INTRODUCTION
 Since US elections are right around the corner and Corona virus is still spreading all across the world.
